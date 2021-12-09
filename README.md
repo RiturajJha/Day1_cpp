@@ -1,2 +1,2 @@
 # Day1_cpp
-Lesson-1 code1
+Lesson 1
